@@ -67,6 +67,7 @@ const handleSubmit=async()=>{
         </div>
 
         <div className="container">
+          <h1 className="heading">Check seats availability </h1>
           {ticketStatus &&
             ticketStatus.map((item, i) => (
               <div className="TickeContainer" key={100 * i}>

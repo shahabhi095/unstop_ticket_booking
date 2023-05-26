@@ -38,13 +38,15 @@ border: none;
   display: flex;
   row-gap: 20px;
   justify-content: space-between;
-  width: 90%;
+
   margin: auto;
 
 }
 .container{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   padding: 20px;
+    width: 50%;
+   height: 600px;
   background-color: aqua;
 
 }

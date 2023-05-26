@@ -1,0 +1,50 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+.MainContainer{
+  display: flex;
+  justify-content: space-around;
+}
+.inputContainer{
+  background-color: #ee5431;
+  width: 50%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    padding: 20px;
+   margin: auto; 
+   height: 600px;
+}
+.heading{
+  color: #181064;
+}
+.inputContainer input{
+    width: 50%;
+    font-size: 20px;
+    padding: 5px auto;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
+
+.inputContainer button{
+color: #181064;
+font-size: 16px;
+padding: 6px 20px;
+border-radius: 8px;
+background-color: blue;
+border: none;
+}
+.TickeContainer{
+  display: flex;
+  row-gap: 20px;
+  justify-content: space-between;
+  width: 90%;
+  margin: auto;
+
+}
+.container{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+  background-color: aqua;
+
+}

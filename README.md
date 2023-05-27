@@ -10,5 +10,7 @@
 - If person is reserving seats, the priority will be to book them in one row
 - User can book as many tickets as s/he wants until the coach is full
 
+# Backend code for database is in backendDeploy folder 
+
 
 
